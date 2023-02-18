@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Seja+Bem+-+Vindo;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **rafaboer/rafaboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
